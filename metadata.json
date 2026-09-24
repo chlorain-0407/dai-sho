@@ -1,0 +1,6 @@
+{
+  "name": "太平洋房屋｜預售與新成屋聯銷平台",
+  "description": "太平洋房屋代銷中心與加盟門店預售屋、餘屋與新成屋聯銷管理系統，整合建案指派、客戶30天保留、追蹤帶看、續期審核、交易申報與分佣快照。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
